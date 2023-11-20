@@ -9,9 +9,12 @@ function App() {
   
   return (
     <>
-    
      <NavBar/>
-     <ItemListContainer title= 'Tiendita'/>
+     <ItemListContainer title= 'cuchua'/>
+     <div>
+      <img src="" alt="" />
+     </div>
+
     </>
   )
 }
